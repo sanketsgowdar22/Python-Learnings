@@ -18,7 +18,7 @@ a = "i love python"
 
 # print(a.isalpha())
 # print(a.isalnum())
-print(a.casefold())
+# print(a.casefold())
 # print(a.isupper())
 # print(a.isascii())
 # print(a.isdecimal())
