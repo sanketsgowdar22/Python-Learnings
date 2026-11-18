@@ -10,6 +10,7 @@
 a = 123
 b = 123
 c = a
+
 print(a is b)
 print(b is a)
 print(a is not c)
